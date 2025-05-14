@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://code-world-no-blanket.github.io/files/img/codeworld-Logo-Color.png" width="550" title="Code World No Blanket" alt="Code World No Blanket logo?"/>
+ <img src="https://code-world-no-blanket.github.io/files/img/codeworld-Logo-Color.png" width="300" title="Code World No Blanket" alt="Code World No Blanket logo?"/>
 </p>
 
 We are a software engineering research group in the Department of Computer Science at Virginia Tech. Our research explores empirical, interdisciplinary, and automated approaches to improve the behavior, productivity, decision-making of software engineers.
