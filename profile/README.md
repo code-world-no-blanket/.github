@@ -1,1 +1,3 @@
+![Code World No Blanket logo](https://code-world-no-blanket.github.io/files/img/codeworld-Logo-Color.png)
+
 We are a software engineering research group in the Department of Computer Science at Virginia Tech in Blacksburg, VA. Our research explores empirical, interdisciplinary, and automated approaches to improve the behavior, productivity, decision-making of software engineers.
