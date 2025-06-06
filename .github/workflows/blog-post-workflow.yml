@@ -1,0 +1,20 @@
+name: Recent Blog Posts
+on:
+  schedule:
+    - cron: '0 */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          file: 'README.md'
+          format: '- `${month}-${day}-${year}` - [${title}](${url})'
+          timezone: 'US/Eastern'
+          url: https://code-world-no-blanket.github.io/blog/index.rss
+      - if: ${{ steps.feed.outputs.changed == true }}
+        uses: sarisia/actions-commit@master
