@@ -55,3 +55,8 @@ Coming soon! 👀
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </td></tr></table>
+
+<!-- feed start -->
+- ` 6- 4-2025` - [We Hosted a Workshop for Practitioners---No One Came](https://code-world-no-blanket.github.io/blog/2025-06-05_workshop.html)
+- ` 5-24-2025` - [Hello World](https://code-world-no-blanket.github.io/blog/2025-05-25.html)
+<!-- feed end -->
