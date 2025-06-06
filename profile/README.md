@@ -50,6 +50,8 @@ We are a software engineering research group in the Department of Computer Scien
 
 ## Recent blog posts 🗣️
 
-<!-- blog starts -->
 Coming soon! 👀
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </td></tr></table>
