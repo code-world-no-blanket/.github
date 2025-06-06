@@ -13,7 +13,7 @@ jobs:
         id: feed
         with:
           file: './profile/README.md'
-          format: '- `${02month}-${02day}-${year}` - [${title}](${url})'
+          format: '`${02month}-${02day}-${year}` - [${title}](${url})<br><br>'
           timezone: 'US/Eastern'
           url: https://code-world-no-blanket.github.io/blog/index.rss
       - if: ${{ steps.feed.outputs.changed == true }}
