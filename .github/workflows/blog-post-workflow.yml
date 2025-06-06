@@ -12,8 +12,8 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          file: 'README.md'
-          format: '- `${month}-${day}-${year}` - [${title}](${url})'
+          file: './profile/README.md'
+          format: '- `${2month}-${2day}-${year}` - [${title}](${url})'
           timezone: 'US/Eastern'
           url: https://code-world-no-blanket.github.io/blog/index.rss
       - if: ${{ steps.feed.outputs.changed == true }}
