@@ -51,8 +51,8 @@ We are a software engineering research group in the Department of Computer Scien
 ## Recent blog posts 🗣️
 
 <!-- feed start -->
-- `06-04-2025` - [We Hosted a Workshop for Practitioners---No One Came](https://code-world-no-blanket.github.io/blog/2025-06-05_workshop.html)
-- `05-24-2025` - [Hello World](https://code-world-no-blanket.github.io/blog/2025-05-25.html)
+`06-04-2025` - [We Hosted a Workshop for Practitioners---No One Came](https://code-world-no-blanket.github.io/blog/2025-06-05_workshop.html)<br><br>
+`05-24-2025` - [Hello World](https://code-world-no-blanket.github.io/blog/2025-05-25.html)<br><br>
 <!-- feed end -->
 
 </td></tr></table>
