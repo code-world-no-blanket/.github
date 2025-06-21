@@ -51,6 +51,7 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 ## Recent blog posts 🗣️
 
 <!-- feed start -->
+`06-19-2025` - [FSE 2025 Preview](https://code-world-no-blanket.github.io/blog/2025-06-20_fse25.html)<br><br>
 `06-04-2025` - [We Hosted a Workshop for Practitioners---No One Came](https://code-world-no-blanket.github.io/blog/2025-06-05_workshop.html)<br><br>
 `05-24-2025` - [Hello World](https://code-world-no-blanket.github.io/blog/2025-05-25.html)<br><br>
 <!-- feed end -->
