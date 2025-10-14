@@ -44,10 +44,11 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 ## Recent blog posts 🗣️
 
 <!-- feed start -->
+`10-12-2025` - [VL/HCC 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_vlhcc25.html)<br><br>
+`10-12-2025` - [ESEM 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_esem25.html)<br><br>
 `06-24-2025` - [FSE 2025 Preview 2: Workshops](https://code-world-no-blanket.github.io/blog/2025-06-25_fse25.2.html)<br><br>
 `06-19-2025` - [FSE 2025 Preview](https://code-world-no-blanket.github.io/blog/2025-06-20_fse25.html)<br><br>
 `06-04-2025` - [We Hosted a Workshop for Practitioners---No One Came](https://code-world-no-blanket.github.io/blog/2025-06-05_workshop.html)<br><br>
-`05-24-2025` - [Hello World](https://code-world-no-blanket.github.io/blog/2025-05-25.html)<br><br>
 <!-- feed end -->
 
 </td></tr></table>
