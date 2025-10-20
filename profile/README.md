@@ -8,34 +8,26 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 
 ## Recent publications 📜
 <!-- recent_publications starts -->
-[Exploring the Evidence-Based SE Beliefs of Generative AI Tools](https://arxiv.org/abs/2407.13900).
-**Brown**, **Cusati**. ESEM Emerging Results and Vision.
+[Designing Conversational AI to Support Think-Aloud Practice in Technical Interview Preparation for CS Students](https://arxiv.org/abs/2507.14418).
+Daryanto, Stil, Ding, Manesh, S. W. Lee, T. Lee, Lunn, Rodriguez, **Brown**, Rho. VL/HCC 2025.
 
-<sup>💡 Conceptual replication exploring the evidence-based SE beliefs of generative AI tools</sup>
+<sup>💡 Conversational AI for think-aloud practice in technical interview preparation</sup>
 
-  [![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2407.13900) [![Static Badge](https://img.shields.io/badge/Paper-Study_Materials-blue)](https://github.com/code-world-no-blanket/LLM-beliefs)
-  
-[The Evolution of Information Seeking in Software Development: Understanding the Role and Impact of AI Assistants](https://arxiv.org/abs/2408.04032).
-  Al Haque, **Brown**, LaToza, Johnson. HumanAISE 2025.
-  
-<sup>💡 Explored the impact of AI tools on how developers seek information in SE work</sup>
+  [![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2507.14418) [![Static Badge](https://img.shields.io/badge/Paper-Code-E5751F)](https://github.com/taufiqhusada/coding_interview_practice_platform) [![Static Badge](https://img.shields.io/badge/Paper-Tool-white)](https://coding-interview-practice-platform.vercel.app/)
 
-  [![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2408.04032) [![Static Badge](https://img.shields.io/badge/Paper-Study_Materials-blue)](https://anonymous.4open.science/r/info-seeking-study-32DF/README.md)
+AutoPrint: Judging the Effectiveness of An Automatic Print Statement Debugging Tool.
+**Ko**, **Ahmed**, **Alebachew**, **Brown**. VL/HCC 2025.
 
-[DevCoach: Supporting Students Learning the Software Development Life Cycle with a Generative AI powered Multi-Agent System](https://github.com/chbrown13/chbrown13.github.io/blob/master/papers/fse2025-seet-final_devcoach.pdf). **Wang**, **Trimble**, **Brown**. FSE SEET.
+<sup>💡 Programmer perceptions of an automated print statement debugging tool</sup>
 
-<sup>💡A system to help students gain practical experience in SDLC tasks with AI agents</sup>
+ [![Static Badge](https://img.shields.io/badge/Paper-Code-E5751F)](https://github.com/minhyukko/AutoPrint) [![Static Badge](https://img.shields.io/badge/Paper-Tool-white)](https://people.cs.vt.edu/minhyukko/autoprint/)
 
+Understanding User and Developer Perceptions of and Responses to Dark Patterns in Online UIs.
+**Liang**, **Hossain**, **Brown**. VL/HCC 2025.
 
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://raw.githubusercontent.com/chbrown13/chbrown13.github.io/refs/heads/master/papers/fse2025-seet-final_devcoach.pdf) [![Static Badge](https://img.shields.io/badge/Paper-Code-E5751F)](https://github.com/wangt7/DevCoach-FSE) [![Static Badge](https://img.shields.io/badge/Paper-Study_Materials-blue)](https://github.com/wangt7/DevCoach)
+<sup>💡 User and developer perceptions of dark patterns via surveys and GitHub mining</sup>
 
-
-[How do Software Engineering Candidates Prepare for Technical Interviews?](https://github.com/chbrown13/chbrown13.github.io/blob/master/papers/fse2025-seet-final_tech_interviews.pdf) **Bell**, Thomas, Lee, **Brown**. FSE SEET.
-
-<sup>💡Insights on candidates' preparation strategies and how CS education can help</sup>
-
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://raw.githubusercontent.com/chbrown13/chbrown13.github.io/refs/heads/master/papers/fse2025-seet-final_tech_interviews.pdf) [![Static Badge](https://img.shields.io/badge/Paper-Study_Materials-blue)](https://github.com/code-world-no-blanket/TechInterviewPrep)
-
+[![Static Badge](https://img.shields.io/badge/Paper-Study_Materials-blue)](https://github.com/huayu1998/VL-HCC-2025-Study-on-Users-and-Developers-Perceptions-of-Dark-Patterns-Replication-Package)
 
 [More publications...](https://code-world-no-blanket.github.io/publications.html)
 
