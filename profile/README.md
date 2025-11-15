@@ -36,11 +36,11 @@ Understanding User and Developer Perceptions of and Responses to Dark Patterns i
 ## Recent blog posts 🗣️
 
 <!-- feed start -->
+`11-13-2025` - [How Progress Ends: A Software Engineering Perspective](https://code-world-no-blanket.github.io/blog/2025-11-14_aspt6004.html)<br><br>
 `10-16-2025` - [Bridging the Gap Between Research and OSS Communities](https://code-world-no-blanket.github.io/blog/2025-10-17_ato_cls.html)<br><br>
 `10-12-2025` - [VL/HCC 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_vlhcc25.html)<br><br>
 `10-12-2025` - [ESEM 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_esem25.html)<br><br>
 `06-24-2025` - [FSE 2025 Preview 2: Workshops](https://code-world-no-blanket.github.io/blog/2025-06-25_fse25.2.html)<br><br>
-`06-19-2025` - [FSE 2025 Preview](https://code-world-no-blanket.github.io/blog/2025-06-20_fse25.html)<br><br>
 <!-- feed end -->
 
 </td></tr></table>
