@@ -8,26 +8,26 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 
 ## Recent publications 📜
 <!-- recent_publications starts -->
-[Designing Conversational AI to Support Think-Aloud Practice in Technical Interview Preparation for CS Students](https://arxiv.org/abs/2507.14418).
-Daryanto, Stil, Ding, Manesh, S. W. Lee, T. Lee, Lunn, Rodriguez, **Brown**, Rho. VL/HCC 2025.
+[From Papers to Progress: Rethinking Knowledge Accumulation in Software Engineering](https://djjay0131.github.io/fose2026/cusati-brown-fose2026-preprint.pdf)
+**Cusati**, **Brown**. ICSE-FOSE 2026.
 
-<sup>💡 Conversational AI for think-aloud practice in technical interview preparation</sup>
+<sup>💡 Knowledge graphs to support cumulative knowledge and artifacts for SE research</sup>
 
-  [![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2507.14418) [![Static Badge](https://img.shields.io/badge/Paper-Code-E5751F)](https://github.com/taufiqhusada/coding_interview_practice_platform) [![Static Badge](https://img.shields.io/badge/Paper-Tool-white)](https://coding-interview-practice-platform.vercel.app/)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://djjay0131.github.io/fose2026/cusati-brown-fose2026-preprint.pdf) [![Static Badge](https://img.shields.io/badge/Paper-Data-E5751F)](https://zenodo.org/records/18217799)
 
-AutoPrint: Judging the Effectiveness of An Automatic Print Statement Debugging Tool.
-**Ko**, **Ahmed**, **Alebachew**, **Brown**. VL/HCC 2025.
+[Designing Tools to Enhance Best Practices in Research Software Engineering](https://chbrown13.github.io/papers/chase26.pdf).
+**Ko**, **Brown**. CHASE 2026.
 
-<sup>💡 Programmer perceptions of an automated print statement debugging tool</sup>
+<sup>💡 Participatory design workshops to explore challenges and tools for research SE</sup>
 
- [![Static Badge](https://img.shields.io/badge/Paper-Code-E5751F)](https://github.com/minhyukko/AutoPrint) [![Static Badge](https://img.shields.io/badge/Paper-Tool-white)](https://people.cs.vt.edu/minhyukko/autoprint/)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/papers/chase26.pdf) [![Static Badge](https://img.shields.io/badge/Study-Materials-white)](https://figshare.com/s/8efb30318ca23fa79b9c)
 
-Understanding User and Developer Perceptions of and Responses to Dark Patterns in Online UIs.
-**Liang**, **Hossain**, **Brown**. VL/HCC 2025.
+[Exploring the Community of Inquiry in Online Computing Education: Student Perceptions and Opportunities for Generative AI](https://chbrown13.github.io/papers/icse-seet26_coi.pdf)
+**Wang**, **Brown**. ICSE-SEET 2026.
 
-<sup>💡 User and developer perceptions of dark patterns via surveys and GitHub mining</sup>
+<sup>💡 Student perceptions of AI in online learning for computing education</sup>
 
-[![Static Badge](https://img.shields.io/badge/Paper-Study_Materials-blue)](https://github.com/huayu1998/VL-HCC-2025-Study-on-Users-and-Developers-Perceptions-of-Dark-Patterns-Replication-Package)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/papers/icse-seet26_coi.pdf) [![Static Badge](https://img.shields.io/badge/Study-Materials-white)](https://anonymous.4open.science/r/CoIOnlineLearningStudy-CB52/README.md)
 
 [More publications...](https://code-world-no-blanket.github.io/publications.html)
 
