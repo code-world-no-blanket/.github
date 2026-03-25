@@ -13,14 +13,14 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 
 <sup>💡 Investigating practitioner perceptions of dynamic security testing integration</sup>
 
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2503.21947) [![Static Badge](https://img.shields.io/badge/Paper-Data-E5751F)](https://zenodo.org/records/18217799)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2503.21947)
 
 Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering.
 **Berhanu**, **Leary**, **Brown**. PROMISE 2026.
 
 <sup>💡 Introduced dataset to evaluate LLMs for repository-level question answering</sup>
 
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/papers/chase26.pdf) [![Static Badge](https://img.shields.io/badge/Study-Materials-white)](https://figshare.com/s/8efb30318ca23fa79b9c)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/publications)
 
 [Human-Human-AI Pair Programming: Uncovering the Role of Agentic AI and the Value of a Human Partner in Collaborative Learning](https://arxiv.org/pdf/2601.12134)
 Daryanto,..., **Brown**, Rho. CHI 2026.
