@@ -8,26 +8,26 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 
 ## Recent publications 📜
 <!-- recent_publications starts -->
-[From Papers to Progress: Rethinking Knowledge Accumulation in Software Engineering](https://djjay0131.github.io/fose2026/cusati-brown-fose2026-preprint.pdf)
-**Cusati**, **Brown**. ICSE-FOSE 2026.
+[Practitioner Perspectives of DAST Integration in Agile Development Workflows: An Experience Report](https://arxiv.org/pdf/2503.21947)
+**Thool**, **Brown**. FSE-Industry 2026.
 
-<sup>💡 Knowledge graphs to support cumulative knowledge and artifacts for SE research</sup>
+<sup>💡 Investigating practitioner perceptions of dynamic security testing integration</sup>
 
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://djjay0131.github.io/fose2026/cusati-brown-fose2026-preprint.pdf) [![Static Badge](https://img.shields.io/badge/Paper-Data-E5751F)](https://zenodo.org/records/18217799)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2503.21947) [![Static Badge](https://img.shields.io/badge/Paper-Data-E5751F)](https://zenodo.org/records/18217799)
 
-[Designing Tools to Enhance Best Practices in Research Software Engineering](https://chbrown13.github.io/papers/chase26.pdf).
-**Ko**, **Brown**. CHASE 2026.
+Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering.
+**Berhanu**, **Leary**, **Brown**. PROMISE 2026.
 
-<sup>💡 Participatory design workshops to explore challenges and tools for research SE</sup>
+<sup>💡 Introduced dataset to evaluate LLMs for repository-level question answering</sup>
 
 [![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/papers/chase26.pdf) [![Static Badge](https://img.shields.io/badge/Study-Materials-white)](https://figshare.com/s/8efb30318ca23fa79b9c)
 
-[Exploring the Community of Inquiry in Online Computing Education: Student Perceptions and Opportunities for Generative AI](https://chbrown13.github.io/papers/icse-seet26_coi.pdf)
-**Wang**, **Brown**. ICSE-SEET 2026.
+[Human-Human-AI Pair Programming: Uncovering the Role of Agentic AI and the Value of a Human Partner in Collaborative Learning](https://arxiv.org/pdf/2601.12134)
+Daryanto,..., **Brown**, Rho. CHI 2026.
 
-<sup>💡 Student perceptions of AI in online learning for computing education</sup>
+<sup>💡 Exploring the effects of shared AI agents in pair programming settings</sup>
 
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/papers/icse-seet26_coi.pdf) [![Static Badge](https://img.shields.io/badge/Study-Materials-white)](https://anonymous.4open.science/r/CoIOnlineLearningStudy-CB52/README.md)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/papers/icse-seet26_coi.pdf)
 
 [More publications...](https://code-world-no-blanket.github.io/publications.html)
 
