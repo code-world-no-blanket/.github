@@ -16,7 +16,7 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 [![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2503.21947)
 
 Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering.
-**Berhanu**, **Leary**, **Brown**. PROMISE 2026.
+**Berhanu**, **Leary**, **Vaishampayan**, **Brown**. PROMISE 2026.
 
 <sup>💡 Introduced dataset to evaluate LLMs for repository-level question answering</sup>
 
