@@ -41,9 +41,6 @@ Daryanto,..., **Brown**, Rho. CHI 2026.
 `10-16-2025` - [Bridging the Gap Between Research and OSS Communities](https://code-world-no-blanket.github.io/blog/2025-10-17_ato_cls.html)<br><br>
 `10-12-2025` - [VL/HCC 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_vlhcc25.html)<br><br>
 `10-12-2025` - [ESEM 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_esem25.html)<br><br>
-`06-25-2025` - [FSE 2025 Preview 2: Workshops](https://code-world-no-blanket.github.io/blog/2025-06-25_fse25.2.html)<br><br>
-`06-20-2025` - [FSE 2025 Preview](https://code-world-no-blanket.github.io/blog/2025-06-20_fse25.html)<br><br>
-`06-05-2025` - [We Hosted a Workshop for Practitioners---No One Came](https://code-world-no-blanket.github.io/blog/2025-06-05_workshop.html)<br><br>
 <!-- feed end -->
 <br>
 
