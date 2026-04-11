@@ -36,10 +36,10 @@ Daryanto,..., **Brown**, Rho. CHI 2026.
 ## Recent blog posts 🗣️
 
 <!-- feed start -->
+`04-09-2026` - [ICSE 2026 Preview](https://code-world-no-blanket.github.io/blog/2026-04-10_icse26.html)<br><br>
 `03-17-2026` - [Project Presentation-Based Assessments in Software Engineering Courses](https://code-world-no-blanket.github.io/blog/2026-03-18_presentation_based_assessment.html)<br><br>
 `11-13-2025` - [How Progress Ends: A Software Engineering Perspective](https://code-world-no-blanket.github.io/blog/2025-11-14_aspt6004.html)<br><br>
 `10-16-2025` - [Bridging the Gap Between Research and OSS Communities](https://code-world-no-blanket.github.io/blog/2025-10-17_ato_cls.html)<br><br>
-`10-12-2025` - [VL/HCC 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_vlhcc25.html)<br><br>
 `10-12-2025` - [ESEM 2025 Overview](https://code-world-no-blanket.github.io/blog/2025-10-13_esem25.html)<br><br>
 <!-- feed end -->
 <br>
