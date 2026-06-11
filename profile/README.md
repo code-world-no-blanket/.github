@@ -8,26 +8,20 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 
 ## Recent publications 📜
 <!-- recent_publications starts -->
-[Practitioner Perspectives of DAST Integration in Agile Development Workflows: An Experience Report](https://arxiv.org/pdf/2503.21947)
-**Thool**, **Brown**. FSE-Industry 2026.
+[TestMap: Evidence Infrastructure for Foundation-Model-Assisted Test Generation](https://arxiv.org/abs/2606.10211).
+**Leary**, **Hanuska**, **Brown**. AIWare arxiv 2026.
 
-<sup>💡 Investigating practitioner perceptions of dynamic security testing integration</sup>
+<sup>💡 Introducing infrastructure for evidence-backed test case generation</sup>
 
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2503.21947)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2503.21947) [![Static Badge](https://img.shields.io/badge/Paper-Code-blue)](https://github.com/consulthunter/TestMap)
 
-Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering.
+[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567).
 **Berhanu**, **Leary**, **Vaishampayan**, **Brown**. PROMISE 2026.
 
 <sup>💡 Introduced dataset to evaluate LLMs for repository-level question answering</sup>
 
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/publications)
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2603.26567) [![Static Badge](https://img.shields.io/badge/Paper-Data-orange)](https://code-world-no-blanket.github.io/StackRepoQA/#dataset)
 
-[Human-Human-AI Pair Programming: Uncovering the Role of Agentic AI and the Value of a Human Partner in Collaborative Learning](https://arxiv.org/pdf/2601.12134)
-Daryanto,..., **Brown**, Rho. CHI 2026.
-
-<sup>💡 Exploring the effects of shared AI agents in pair programming settings</sup>
-
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://chbrown13.github.io/papers/icse-seet26_coi.pdf)
 
 [More publications...](https://code-world-no-blanket.github.io/publications.html)
 
@@ -42,7 +36,6 @@ Daryanto,..., **Brown**, Rho. CHI 2026.
 `11-13-2025` - [How Progress Ends: A Software Engineering Perspective](https://code-world-no-blanket.github.io/blog/2025-11-14_aspt6004.html)<br><br>
 `10-16-2025` - [Bridging the Gap Between Research and OSS Communities](https://code-world-no-blanket.github.io/blog/2025-10-17_ato_cls.html)<br><br>
 <!-- feed end -->
-<br>
 
 [More blog posts...](https://code-world-no-blanket.github.io/blog/)
 
