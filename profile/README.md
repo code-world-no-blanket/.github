@@ -4,6 +4,10 @@
 
 We are a research group in the Department of Computer Science at Virginia Tech. Our research explores empirical, interdisciplinary, and automated approaches to improve the behavior, productivity, decision-making of software engineers.
 
+<p align="center">
+<b><a href="https://github.com/orgs/code-world-no-blanket/discussions/categories/research-studies">Join a Research Study!</a> 🔬</b>
+</p>
+
 <table><tr><td valign="top" width="50%">
 
 ## Recent publications 📜
