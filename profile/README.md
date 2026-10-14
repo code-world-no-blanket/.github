@@ -12,19 +12,19 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 
 ## Recent publications 📜
 <!-- recent_publications starts -->
+[Repository-Aware Metamorphic Relation Generation for Augmented Reality Applications using Large Language Models](https://dl.acm.org/doi/10.1145/3832783.3837502)
+**Bose**, **Qin**, **Brown**. ASE 2026.
+
+<sup>💡 We present an LLM pipeline to generate metamorphic relations for AR testing</sup>
+
+[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/abs/2607.28775) [![Static Badge](https://img.shields.io/badge/Paper-Code-blue)](https://github.com/brintodibyendu/MR_DISCOVERY_ASE)
+
 [TestMap: Evidence Infrastructure for Foundation-Model-Assisted Test Generation](https://arxiv.org/abs/2606.10211).
 **Leary**, **Hanuska**, **Brown**. AIWare arxiv 2026.
 
 <sup>💡 Introducing infrastructure for evidence-backed test case generation</sup>
 
 [![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2503.21947) [![Static Badge](https://img.shields.io/badge/Paper-Code-blue)](https://github.com/consulthunter/TestMap)
-
-[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567).
-**Berhanu**, **Leary**, **Vaishampayan**, **Brown**. PROMISE 2026.
-
-<sup>💡 Introduced dataset to evaluate LLMs for repository-level question answering</sup>
-
-[![Static Badge](https://img.shields.io/badge/Paper-PDF-861F41)](https://arxiv.org/pdf/2603.26567) [![Static Badge](https://img.shields.io/badge/Paper-Data-orange)](https://code-world-no-blanket.github.io/StackRepoQA/#dataset)
 
 
 [More publications...](https://code-world-no-blanket.github.io/publications.html)
