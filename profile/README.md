@@ -34,11 +34,11 @@ We are a research group in the Department of Computer Science at Virginia Tech. 
 ## Recent blog posts 🗣️
 
 <!-- feed start -->
+`10-14-2026` - [ASE 2026 Overview](https://code-world-no-blanket.github.io/blog/2026-10-15_ase26.html)<br><br>
 `10-13-2026` - [VL/HCC 2026 Overview](https://code-world-no-blanket.github.io/blog/2026-10-14_vlhcc26.html)<br><br>
 `10-13-2026` - [ESEM 2026 Overview](https://code-world-no-blanket.github.io/blog/2026-10-14_esem26.html)<br><br>
 `08-24-2026` - [An Agent Template for Teaching Software Engineering](https://code-world-no-blanket.github.io/blog/2026-08-25_agent_template.html)<br><br>
 `07-02-2026` - [FSE 2026 Preview](https://code-world-no-blanket.github.io/blog/2026-07-03_fse26.html)<br><br>
-`06-21-2026` - [POSSE Project Evaluator](https://code-world-no-blanket.github.io/blog/2026-06-22_posse_project_eval.html)<br><br>
 <!-- feed end -->
 
 [More blog posts...](https://code-world-no-blanket.github.io/blog/)
